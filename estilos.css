@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:yellowgreen;
+    color: #050404;
+    margin: 20px; 
+  }
+  
+  .title{
+    font-family:  Georgia;
+    font-size: 2em;
+    color: black;
+  }
+
+  #h1 {
+    font-size: 3em;
+    padding: 1em 1em 1em 1em;
+    display: flex;
+    justify-content: center;
+  }
+
+
+  .list{
+    color: rgb(57, 3, 3);
+    font-size: 1.8em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid orange;
+    background-color: orangered;
+    width: 20vw;
+  }
+
+  .text{
+    color:rgb(19, 2, 35);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+
+    
+  }
+  #picture-container{
+    margin: auto;
+    width: 85vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .picture{
+    width: 18em;
+    height: 18em;
+  }
